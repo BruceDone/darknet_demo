@@ -1,0 +1,5 @@
+backup = session
+classes = 1
+train = data/train.txt
+valid = data/val.txt
+names = data/char.names
